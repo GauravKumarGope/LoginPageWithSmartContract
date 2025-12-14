@@ -1,0 +1,44 @@
+# Dependencies
+node_modules/
+.pnp
+.pnp.js
+
+# Build output
+dist/
+build/
+*.log
+
+# Vite and CRA cache
+.cache/
+.vite/
+.eslintcache
+
+# Env files
+.env
+.env.*
+!.env.example
+
+# Local configs
+*.local
+*.local.*
+*.swp
+*.swo
+
+# Mac / Linux / Windows junk
+.DS_Store
+Thumbs.db
+
+# IDE junk
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+.idea/
+*.iml
+
+# Optional: If you use firebase emulator or similar
+.firebase/
+
+# Optional: If you use Docker
+docker-compose.override.yml

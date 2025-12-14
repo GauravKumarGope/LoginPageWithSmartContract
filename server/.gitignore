@@ -1,0 +1,44 @@
+# Node dependencies
+node_modules/
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Runtime files
+pids/
+*.pid
+*.seed
+*.pid.lock
+
+# Environment variables
+.env
+.env.*
+!.env.example
+
+# Build or output folders (if using Babel/TS)
+dist/
+build/
+
+# Coverage reports
+coverage/
+*.lcov
+
+# Cache
+.cache/
+.eslintcache
+
+# System junk
+.DS_Store
+Thumbs.db
+
+# IDE junk
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+.idea/
+*.iml
