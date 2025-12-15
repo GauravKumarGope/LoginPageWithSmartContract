@@ -43,13 +43,6 @@ client/ # Frontend (React)
 server/ # Backend (Express API)
 flare-app/ # Smart contracts and blockchain logic
 
-
-## Security Notes
-
-- Private keys and secrets are never committed to the repository
-- JWT tokens are short-lived
-- Environment variables are managed via `.env` files (see `.env.example`)
-
 ## Disclaimer
 
 This project is built for learning and demonstration purposes and is
