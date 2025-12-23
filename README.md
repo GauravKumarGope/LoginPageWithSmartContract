@@ -4,6 +4,12 @@ A secure web application that combines traditional authentication (JWT)
 with blockchain smart contracts on the Flare Network to manage user identity,
 key generation, and FAssets-based payments.
 
+#Disclaimer
+
+ This project originated as part of a hackathon focused on building smart glasses for accessibility use-cases. The glasses act as a client device, while this web application serves as the backend authentication, identity, and payment layer required to support them.
+ 
+Due to hackathon time constraints and the complexity of hardware development, the core focus was placed on designing and implementing the secure system architecture that the smart glasses would rely on in a real-world deployment.
+
 ## What this project does
 
 - Allows users to sign up and log in securely
