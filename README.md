@@ -37,12 +37,6 @@ Web3 payment and identity primitives.
 3. Blockchain logic handles key-related operations
 4. Payments are executed using FAssets via smart contracts
 
-## Project Structure
-
-client/ # Frontend (React)
-server/ # Backend (Express API)
-flare-app/ # Smart contracts and blockchain logic
-
 ## Disclaimer
 
 This project is built for learning and demonstration purposes and is
